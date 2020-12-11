@@ -62,6 +62,10 @@ h2 {
   margin: 50px 0;
 }
 
+.portfolio-section {
+  margin-bottom: 100px;
+}
+
 h3 {
   text-align: center;
   margin-top: 30px;
@@ -86,4 +90,20 @@ address {
 
 address a {
   line-height: 2.5;
+}
+
+.main-footer {
+  border-top: Solid 1px lightgrey;
+  font-size: 0.8em;
+  line-height: 6;
+}
+
+.footer-student-name {
+  font-weight: bold;
+  float: left;
+}
+
+.back-to-top-link {
+  text-transform: uppercase;
+  float: right;
 }
