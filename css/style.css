@@ -81,6 +81,14 @@ h3 {
   padding-bottom: 1.75em;
 }
 
+.contact-section {
+  margin-bottom: 60px;
+}
+
+.contact-section p {
+  margin-bottom: 20px;
+}
+
 .contact-header {
   margin-bottom: 35px;
 }
