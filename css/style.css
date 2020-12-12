@@ -117,3 +117,13 @@ address a {
   text-transform: uppercase;
   float: right;
 }
+
+@media (min-width: 768px) {
+  header li {
+    display: inline-block;
+  }
+
+  header a {
+    padding: 0 1.25em;
+  }
+}
