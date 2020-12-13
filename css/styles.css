@@ -209,3 +209,32 @@ footer nav {
     margin: 0;
   }
 }
+
+@media (min-width: 1024px) {
+  h1 {
+    float: left;
+    margin: 0;
+    padding: 0;
+    line-height: 6;
+  }
+
+  header nav {
+    float: right;
+  }
+
+  ul {
+    margin: 0;
+  }
+
+  header a {
+    line-height: 10;
+  }
+
+  .about-me {
+    margin: 0;
+  }
+
+  .about-me p {
+    margin: 0;
+  }
+}
