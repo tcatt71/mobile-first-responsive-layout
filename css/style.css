@@ -71,6 +71,7 @@ h3 {
 .project-description {
   padding-bottom: 1.75em;
   width: 320px;
+  margin: auto;
 }
 
 .contact-section {
@@ -163,6 +164,7 @@ footer nav {
 
   .project-description {
     margin: auto;
+    padding-bottom: 3.75em;
   }
 
   .clearfix::after {
