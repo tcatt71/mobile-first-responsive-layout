@@ -110,6 +110,10 @@ address a {
   float: right;
 }
 
+footer nav {
+  display: none;
+}
+
 @media (min-width: 768px) {
   header {
     margin-bottom: 150px;
@@ -119,7 +123,7 @@ address a {
     padding-top: 2em;
   }
 
-    li {
+  li {
     display: inline-block;
   }
 
@@ -190,11 +194,12 @@ address a {
     display: none;
   }
 
-  .main-footer ul {
+  footer nav {
+    display: inline-block;
     float: right;
   }
 
-  .footer-nav ul {
+ .footer-nav ul {
     margin: 0;
   }
 }
