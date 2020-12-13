@@ -119,17 +119,8 @@ address a {
     padding-top: 2em;
   }
 
-  /* header li {
+    li {
     display: inline-block;
-  }
-
-  header a {
-    padding: 0 1.25em;
-  } */
-
-  li {
-    display: inline-block;
-    /* float: right; */
   }
 
   a {
