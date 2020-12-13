@@ -122,6 +122,10 @@ address a {
     padding: 0 1.25em;
   }
 
+  .about-me {
+    margin-top: 50px;
+  }
+
   .student-image {
     float: right;
     width: 40%;
