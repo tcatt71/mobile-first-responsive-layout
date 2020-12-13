@@ -143,18 +143,22 @@ address a {
   }
 
   .project {
-    display: inline-block;
     width: 50%;
     float: left;
-    padding: 0 1em;
   }
 
   .project:nth-child(even) {
     padding-left: 0.5em;
+    padding-right: 1em;
   }
 
   .project:nth-child(odd) {
     padding-right: 0.5em;
+    padding-left: 1em;
+  }
+
+  .project-description {
+    margin: auto;
   }
 
   .clearfix::after {
