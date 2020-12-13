@@ -181,4 +181,8 @@ address a {
     font-size: 1.25rem;
     margin-top: 15px;
   }
+
+  .back-to-top-link {
+    display: none;
+  }
 }
