@@ -166,4 +166,19 @@ address a {
     display: table;
     clear: both;
   }
+
+  .contact-section {
+    text-align: center;
+  }
+
+  .contact-section p {
+    font-size: 1.25rem;
+    width: 600px;
+    display: inline-block;
+  }
+
+  address {
+    font-size: 1.25rem;
+    margin-top: 15px;
+  }
 }
