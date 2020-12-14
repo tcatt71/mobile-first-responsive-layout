@@ -170,7 +170,6 @@ footer nav {
 
   .project:nth-child(odd) {
     padding-right: 0.5em;
-
   }
 
   .project-description {
@@ -197,10 +196,6 @@ footer nav {
   address {
     font-size: 1.25rem;
     margin-top: 15px;
-  }
-
-  .footer-student-name {
-    padding-left: 1.25em;
   }
 
   .back-to-top-link {
