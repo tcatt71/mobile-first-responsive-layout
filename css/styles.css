@@ -220,7 +220,7 @@ footer nav {
     margin: 0;
   }
 
-  .footer-nav a:nth-last-child(1) {
+  .footer-nav a:last-child {
     padding-right: 0;
   }
 }
