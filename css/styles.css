@@ -116,6 +116,10 @@ footer nav {
 }
 
 @media (min-width: 768px) {
+  .container {
+    padding: 0 1em;
+  }
+
   header {
     margin-bottom: 150px;
   }
@@ -136,10 +140,13 @@ footer nav {
     margin-top: 50px;
   }
 
+  .about-me p {
+    padding-left: 0;
+  }
+
   .student-image {
     float: right;
     width: 40%;
-    padding-right: 1em;
   }
 
   header p {
