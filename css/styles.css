@@ -166,12 +166,11 @@ footer nav {
 
   .project:nth-child(even) {
     padding-left: 0.5em;
-    padding-right: 1em;
   }
 
   .project:nth-child(odd) {
     padding-right: 0.5em;
-    padding-left: 1em;
+
   }
 
   .project-description {
