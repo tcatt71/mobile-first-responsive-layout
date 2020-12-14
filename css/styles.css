@@ -152,10 +152,6 @@ footer nav {
     margin-top: 50px;
   }
 
-  .about-me p {
-    padding-left: 0;
-  }
-
   .student-image {
     float: right;
     width: 40%;
@@ -165,6 +161,7 @@ footer nav {
     width: 60%;
     text-align: left;
     font-size: 1.25rem;
+    padding-right: 1em;
   }
 
   .portfolio-section {
