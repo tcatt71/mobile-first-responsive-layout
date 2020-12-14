@@ -210,6 +210,10 @@ footer nav {
  .footer-nav ul {
     margin: 0;
   }
+
+  .footer-nav a:nth-last-child(1) {
+    padding-right: 0;
+  }
 }
 
 @media (min-width: 1024px) {
