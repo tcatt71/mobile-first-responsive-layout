@@ -139,6 +139,7 @@ footer nav {
   .student-image {
     float: right;
     width: 40%;
+    padding-right: 1em;
   }
 
   header p {
