@@ -216,7 +216,7 @@ footer nav {
     float: right;
   }
 
- .footer-nav ul {
+  .footer-nav ul {
     margin: 0;
   }
 
@@ -226,6 +226,11 @@ footer nav {
 }
 
 @media (min-width: 1024px) {
+  .container {
+    max-width: 1024px;
+    margin: auto;
+  }
+
   h1 {
     float: left;
     margin: 0;
@@ -249,7 +254,24 @@ footer nav {
     margin: 0;
   }
 
-  .about-me p {
+  header p {
     margin: 0;
+    padding-right: 2em;
+  }
+
+  .project {
+    width: 320px;
+  }
+
+  .project:nth-child(even) {
+    padding-left: 0;
+  }
+  .project:nth-child(odd) {
+    padding-right: 0;
+  }
+
+  .project:nth-child(2),
+  .project:nth-child(5) {
+    margin: 0 1em;
   }
 }
