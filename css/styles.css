@@ -250,6 +250,10 @@ footer nav {
     line-height: 10;
   }
 
+  header a:last-child {
+    padding-right: unset;
+  }
+
   .about-me {
     margin: 0;
   }
