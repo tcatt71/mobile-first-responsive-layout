@@ -11,6 +11,10 @@ header {
   margin-bottom: 100px;
 }
 
+.upper-header {
+  line-height: 3;
+}
+
 header p {
   font-size: 1.05em;
   padding: 0;
@@ -18,12 +22,12 @@ header p {
 
 h1 {
   font-size: 1.60rem;
-  margin-top: 0;
-  padding-top: 0.67em;
+  margin: 0;
 }
 
 ul {
   padding: 0;
+  margin: 0;
 }
 
 li {
@@ -34,7 +38,7 @@ a {
   text-decoration: none;
   font-weight: bold;
   color: black;
-  /* transition: 0.1s ease; */
+  line-height: 3;
 }
 
 a:hover {
@@ -45,7 +49,6 @@ li a {
   text-transform: uppercase;
   display: inline-block;
   width: 100%;
-  line-height: 3;
 }
 
 .about-me {
@@ -142,7 +145,7 @@ footer nav {
   }
 
   h1 {
-    padding-top: 2em;
+    padding-top: 1.5em;
   }
 
   li {
@@ -166,7 +169,7 @@ footer nav {
     width: 60%;
     text-align: left;
     font-size: 1.25rem;
-    padding-right: 1em;
+    padding-right: 0.5em;
   }
 
   .portfolio-section {
@@ -245,14 +248,11 @@ footer nav {
 
   header nav {
     float: right;
+    line-height: 10;
   }
 
   ul {
     margin: 0;
-  }
-
-  header a {
-    line-height: 10;
   }
 
   .contact-link {
