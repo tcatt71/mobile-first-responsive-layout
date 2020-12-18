@@ -48,7 +48,7 @@ a {
 }
 
 a:hover {
-  color: purple;
+  color: hsl(194deg, 62%, 51%);
   transform: scale(1.1);
   transition: 0.25s;
 }
