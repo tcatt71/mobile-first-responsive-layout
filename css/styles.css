@@ -45,7 +45,6 @@ a {
   text-decoration: none;
   font-weight: bold;
   color: black;
-  line-height: 3;
 }
 
 a:hover {
@@ -235,10 +234,6 @@ footer nav {
 
   .footer-nav ul {
     margin: 0;
-  }
-
-  .footer-nav a:last-child {
-    padding-right: 0;
   }
 }
 
