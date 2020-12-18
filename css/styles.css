@@ -13,6 +13,8 @@ h3,
   font-family: 'Proza Libre', sans-serif;
 }
 
+/* -------------- Header ------------- */
+
 header {
   text-align: center;
   margin-bottom: 100px;
@@ -73,6 +75,8 @@ p {
   width: 210px;
 }
 
+/* -------------- Portfolio ------------- */
+
 h2 {
   text-align: center;
   text-transform: uppercase;
@@ -99,6 +103,8 @@ h3 {
   margin: auto;
 }
 
+/* -------------- Contact Section ------------- */
+
 .contact-section {
   margin-bottom: 60px;
 }
@@ -122,6 +128,8 @@ address {
 address a {
   line-height: 2.5;
 }
+
+/* -------------- Footer ------------- */
 
 .main-footer {
   border-top: Solid 1px lightgrey;
@@ -147,6 +155,8 @@ footer nav {
   .container {
     padding: 0 1em;
   }
+
+  /* -------------- Header ------------- */
 
   header {
     margin-bottom: 150px;
@@ -180,6 +190,8 @@ footer nav {
     padding-right: 0.5em;
   }
 
+  /* -------------- Portfolio ------------- */
+
   .portfolio-section {
     margin: 0;
   }
@@ -208,6 +220,8 @@ footer nav {
     clear: both;
   }
 
+  /* -------------- Contact Section ------------- */
+
   .contact-section {
     text-align: center;
   }
@@ -222,6 +236,8 @@ footer nav {
     font-size: 1.25rem;
     margin-top: 15px;
   }
+
+  /* -------------- Footer ------------- */
 
   .back-to-top-link {
     display: none;
@@ -242,6 +258,8 @@ footer nav {
     max-width: 1024px;
     margin: auto;
   }
+
+  /* -------------- Header ------------- */
 
   h1 {
     float: left;
@@ -271,6 +289,8 @@ footer nav {
     margin: 0;
     padding-right: 2em;
   }
+
+  /* -------------- Portfolio Section ------------- */
 
   .project {
     width: 320px;
